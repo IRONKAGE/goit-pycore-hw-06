@@ -206,5 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-File for tests:
+# File for tests:
 salary_file.txt
+cats_file.txt
